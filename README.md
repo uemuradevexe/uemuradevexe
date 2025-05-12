@@ -6,11 +6,18 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uemuradevexe&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<div style="display: inline-block"><br>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+    <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img align="center" alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  </a>
 </div>
+
 
           
   

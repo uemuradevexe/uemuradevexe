@@ -7,15 +7,18 @@
 </div>
     
 <div style="display: inline-block">
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  </a>
   <a href="https://www.java.com/" target="_blank">
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </a>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+    <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</a>
 </div>
 
 <br>

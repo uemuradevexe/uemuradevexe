@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト | INDIE HACKER
+      ソフトウェアエンジニア | INDIE HACKER
     </b>
       <br>
       Hi! Welcome to my github
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/uemuradevexe_♡-black" />
+  <img src="https://img.shields.io/badge/uemuradevexe-black" />
 </div>
 
 <div align="center" width="100%">

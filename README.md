@@ -51,7 +51,6 @@
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
@@ -84,12 +83,7 @@
 
 <div align="center">
 <p align="center">
-  <samp>
-    ♡ <a href="https://rentry.co/ricardouemura">rentry</a> ⊹
-    <a href="https://linktr.ee/ricardouemura">linktr.ee</a> ⊹
-    <a href="https://byricardouemura.carrd.co/">carrd.co</a> ⊹
-    <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-  </samp>
+  
 </p>
 </div>
 

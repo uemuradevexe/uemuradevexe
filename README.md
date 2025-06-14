@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      システムアナリスト | INDIE HACKER
     </b>
       <br>
       Hi! Welcome to my github

@@ -56,8 +56,6 @@
   <!-- Bancos de dados -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
-  <!-- Outro back-end -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RubyOnRails-Dark.svg" />
   <!-- Linguagens e front-end -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />

@@ -47,7 +47,12 @@
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uemuradevexe&theme=tokyonight" />
   <br><br>
   <img height=154 align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=uemuradevexe&theme=tokyonight&card_width=885" />
+  
+  <!-- 🐍 Snake animation -->
+  <br><br>
+  <img src="https://github.com/uemuradevexe/uemuradevexe/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <!-- Back-end -->

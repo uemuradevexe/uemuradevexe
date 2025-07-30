@@ -55,24 +55,21 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <<!-- Back-end -->
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
-
+  <!-- Back-end -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" />
+  <img width="40" src="https://cdn.simpleicons.org/rubyonrails/E30000" alt="Rails logo" />
+  
 <!-- Bancos de dados -->
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
 
 <!-- Linguagens e front-end -->
+<img width="40" src="https://cdn.simpleicons.org/hotwire/FF0000" alt="Hotwire logo" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-
-<!-- Ruby & Rails -->
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" />
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RubyOnRails.svg" />
 
 <!-- Ferramentas -->
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />

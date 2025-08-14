@@ -6,7 +6,7 @@
       ソフトウェアエンジニア | ＳＯＦＴＷＡＲＥ ＥＮＧＩＮＥＥＲ
     </b>
       <br>
-      Hi! Welcome to my github
+      Welcome to my github
       <br>
   </samp>
 </div>

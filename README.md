@@ -6,7 +6,7 @@
       ソフトウェアエンジニア | ＳＯＦＴＷＡＲＥ ＥＮＧＩＮＥＥＲ
     </b>
       <br>
-      Welcome to my Github
+      Welcome to my GitHub
       <br>
   </samp>
 </div>
@@ -17,13 +17,6 @@
 
 <br><br>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f0/0e/ae/f00eae866386e077e95d5629fe8c5d4c.gif" width="200">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/uemuradevexe-black" />
-</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+was+born+in+Brazil;I+live+in+Japan;I'm+a+Software+Engineering+student;Future+Backend+Developer;O_O" alt="Typing SVG"/>
@@ -94,11 +87,6 @@
     <b>Contact me:</b>
   </samp>
   <br><br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:uemurinhawork@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ricardouemura/)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ricardouemura/)
 </div>
 

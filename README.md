@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD84D"/>
 
 <div align="center">
   <samp>
@@ -11,7 +11,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Born+in+Brazil;Based+in+Japan;Software+Engineering+Student;Future+Backend+Developer;Open+Source+Contributor+in+Rust;Laravel+%7C+Livewire+%7C+PHP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFD84D&width=900&size=21&center=true&lines=Born+in+Brazil;Based+in+Japan;Software+Engineering+Student;Future+Backend+Developer;Open+Source+Contributor+in+Rust;Laravel+%7C+Livewire+%7C+PHP" />
 </div>
 
 <br>
@@ -75,7 +75,7 @@
     <samp><b>Contact me:</b></samp>
     <br><br>
     <a href="https://www.linkedin.com/in/ricardouemura/">
-      <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" />
+      <img src="https://img.shields.io/badge/LinkedIn-FFD84D?style=for-the-badge&logo=linkedin&logoColor=000000" />
     </a>
   </div>
 
@@ -83,4 +83,4 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD84D&height=100&section=footer"/>

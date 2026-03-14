@@ -2,7 +2,7 @@
 
 <div align="center">
   <samp>
-    <b>ソフトウェアエンジニア | SOFTWARE ENGINEER</b>
+    <b>SOFTWARE ENGINEER</b>
     <br>
     Welcome to my GitHub 👋
   </samp>

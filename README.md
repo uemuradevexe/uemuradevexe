@@ -17,7 +17,7 @@
 <br>
 
 <details align="center">
-  <summary><samp><b>More about me</b></samp></summary>
+  <summary><samp><b>More about me : ]</b></samp></summary>
 
   <br>
 

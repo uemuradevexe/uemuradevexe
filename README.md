@@ -4,7 +4,7 @@
   <samp>
     <b>SOFTWARE ENGINEER</b>
     <br>
-    Welcome to my GitHub 👋
+    Welcome to my GitHub 
   </samp>
 </div>
 

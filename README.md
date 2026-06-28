@@ -43,8 +43,8 @@ class Ricardo {
     <img height="154" align="center" alt="Streak Stats"
       src="https://github-readme-streak-stats.herokuapp.com?user=richasdev&theme=radical&card_width=885" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uemuradevexe&layout=compact&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=uemuradevexe&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasdev&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=richasdev&show_icons=true&theme=radical"/>
   </div>
 </details>
 

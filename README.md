@@ -44,7 +44,6 @@ class Ricardo {
       src="https://github-readme-streak-stats.herokuapp.com?user=richasdev&theme=radical&card_width=885" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasdev&layout=compact&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=richasdev&show_icons=true&theme=radical"/>
   </div>
 </details>
 
@@ -98,7 +97,6 @@ class Ricardo {
     </samp>
     <br><br>
     <a href="https://github.com/rapina-rs/rapina">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rapina-rs&repo=rapina&theme=radical" />
     </a>
   </div>
 </details>

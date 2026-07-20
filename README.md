@@ -42,8 +42,7 @@ class Ricardo {
     <br><br>
     <img height="154" align="center" alt="Streak Stats"
       src="https://github-readme-streak-stats.herokuapp.com?user=richasdev&theme=radical&card_width=885" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasdev&layout=compact&theme=radical"/>
+    <br>
   </div>
 </details>
 
@@ -69,9 +68,12 @@ class Ricardo {
 
   **Frontend**
 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" title="Svelte"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" title="React"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript"/>
+<img
+    width="40"
+    src="https://cdn.simpleicons.org/livewire"
+    title="Livewire"
+    alt="Livewire"
+/>  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" title="TypeScript"/>
   <img width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS"/>
 
